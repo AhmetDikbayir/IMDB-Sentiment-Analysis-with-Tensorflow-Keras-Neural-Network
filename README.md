@@ -1,5 +1,5 @@
 # IMDB-Sentiment-Analysis-with-Tensorflow-Keras-Neural-Network
-# IMDB-Sentiment-Analysis-with-Neural-Network
+
 ## Executive Summary¶ 
 
 ### About the dataset 
