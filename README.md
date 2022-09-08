@@ -24,7 +24,7 @@
 ### Evaluate the Model  
 
 * After training this model, my model had overfitting.   
-* To overcome this problem, I added Dropout layer aafter the Global Average Pool Layer with 0.2 percentage.   
+* To overcome this problem, I added Dropout layer after the Global Average Pool Layer with 0.2 percentage.   
 * After added this layers, overfitting was still going on.   
 * So, I added another Dropout Layer after the hidden layer.   
 * When restart the analysis, I achieved reliable and acceptable results.  
